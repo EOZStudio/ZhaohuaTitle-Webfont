@@ -3,7 +3,7 @@
 ```
 ***朝華標題A***
 @font-face {
-  font-family: "ZhanhuaTitle-A";
+  font-family: "ZhaohuaTitle-A";
   font-display: swap;
   font-style: normal;
   src: url("https://cdn.jsdelivr.net/gh/EOZStudio/ZhaohuaTitle-Webfont@v1.0.0/朝華標題A.woff2") format("woff2");
@@ -11,7 +11,7 @@
 
 ***朝華標題B***
 @font-face {
-  font-family: "ZhanhuaTitle-B";
+  font-family: "ZhaohuaTitle-B";
   font-display: swap;
   font-style: normal;
   src: url("https://cdn.jsdelivr.net/gh/EOZStudio/ZhaohuaTitle-Webfont@v1.0.0/朝華標題B.woff2") format("woff2");
