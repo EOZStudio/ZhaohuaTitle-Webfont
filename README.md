@@ -1,5 +1,6 @@
 # ZhaohuaTitle-Webfont
 本專案為朝華標題A和朝華標題B的非官方woff2版，提供jsDelivr網址以便嵌入進CSS。
+註：朝華標題A已做子集化處理，保留字符為拉丁字母、假名、字體內所有繁體中文和簡體中文。
 ```
 ***朝華標題A***
 @font-face {
