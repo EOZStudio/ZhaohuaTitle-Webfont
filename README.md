@@ -5,7 +5,6 @@
 
 原作者：特里王（Terry Wang）
 ```
-***朝華標題A***
 @font-face {
   font-family: "ZhaohuaTitle-A";
   font-display: swap;
@@ -13,7 +12,6 @@
   src: url("https://eozstudio.github.io/ZhaohuaTitle-Webfont/朝華標題A.woff2") format("woff2");
 }
 
-***朝華標題B***
 @font-face {
   font-family: "ZhaohuaTitle-B";
   font-display: swap;
